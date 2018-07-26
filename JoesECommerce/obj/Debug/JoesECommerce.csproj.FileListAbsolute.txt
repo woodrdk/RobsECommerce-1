@@ -1,0 +1,194 @@
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\ApplicationInsights.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\JoesECommerce.dll.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\JoesECommerce.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\JoesECommerce.pdb
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csc.exe
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csc.exe.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csc.rsp
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csi.exe
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csi.exe.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\csi.rsp
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.AppContext.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Console.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\vbc.exe
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\vbc.exe.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\vbc.rsp
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Antlr3.Runtime.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.Web.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Newtonsoft.Json.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Helpers.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Mvc.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Optimization.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Razor.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\WebGrease.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Helpers.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Mvc.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Optimization.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.Razor.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Newtonsoft.Json.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Antlr3.Runtime.pdb
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.AI.Web.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.csprojAssemblyReference.cache
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.csproj.CoreCompileInputs.cache
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.csproj.CopyComplete
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.pdb
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\EntityFramework.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\EntityFramework.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.Migrations.AddedProduct.resources
+C:\Users\jortiz\Desktop\Summer 2018\CPW 213\JoesECommerce\JoesECommerce\obj\Debug\JoesECommerce.csproj.GenerateResource.cache
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\ApplicationInsights.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\JoesECommerce.dll.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\JoesECommerce.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\JoesECommerce.pdb
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csc.exe
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csc.exe.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csc.rsp
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csi.exe
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csi.exe.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\csi.rsp
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.AppContext.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Console.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\vbc.exe
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\vbc.exe.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\vbc.rsp
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Antlr3.Runtime.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\EntityFramework.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.Web.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Newtonsoft.Json.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Helpers.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Mvc.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Optimization.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Razor.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\WebGrease.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\EntityFramework.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Helpers.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Mvc.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Optimization.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.Razor.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Newtonsoft.Json.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Antlr3.Runtime.pdb
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.AI.Web.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.csprojAssemblyReference.cache
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.Migrations.AddedProduct.resources
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.csproj.GenerateResource.cache
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.csproj.CoreCompileInputs.cache
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.csproj.CopyComplete
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.dll
+C:\Users\rwood\Downloads\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.pdb
