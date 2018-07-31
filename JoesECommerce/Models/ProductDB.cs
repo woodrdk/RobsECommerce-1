@@ -35,6 +35,12 @@ namespace JoesECommerce.Models
             return products;
         }
 
+        public static int GetTotalNumProducts()
+        {
+            var context = new CommerceDbContext();
+            return context.Products.Count();
+        }
+
         internal static List<Product> GetProductsByPage(int page, byte pageSize)
         {
             CommerceDbContext context = new CommerceDbContext();
@@ -77,6 +83,15 @@ namespace JoesECommerce.Models
             // tells EF this product has only been modified
             context.Entry(p).State = System.Data.Entity.EntityState.Modified;
             // send update querty to the database
+            context.SaveChanges();
+        }
+
+        public static void DeleteProduct(int id)
+        {
+            var context = new CommerceDbContext();
+            Product p = context.Products.Find(id);
+
+            context.Products.Remove(p);
             context.SaveChanges();
         }
     }

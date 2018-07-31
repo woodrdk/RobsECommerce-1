@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<JoesECommerce.Models.Product>
 
 @{
-    ViewBag.Title = "Product List";
+    ViewBag.Title = "Index";
 }
 
-<h2>Product Catalog</h2>
+<h2>Index</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -37,26 +37,3 @@
 }
 
 </table>
-
-@* print out page numbers *@
-
-<ul class="pagination">
-    @for (int i = 1; i <= ViewBag.MaxPage; i++)
-    {
-        if (i == ViewBag.CurrentPage)
-        {
-            <li class="active">
-                @Html.ActionLink($"Page {i}", "Index", new { id = i })
-            </li>
-        
-        }
-        else
-        {
-            <li>
-                @Html.ActionLink($"Page {i}", "Index", new { id = i })
-            </li>
-        }
-        @* Desired Route Products/Index/i*@
-
-    }
-</ul>

@@ -29,6 +29,10 @@ namespace JoesECommerce.Controllers
             // Show the user 1 page worth of products
             List<Product> prods = ProductDB.GetProductsByPage(page, PageSize);
 
+            int numProducts = ProductDB.GetTotalNumProducts();
+            double maxPage = Math.Ceiling(numProducts / (double)PageSize);
+            ViewBag.MaxPage = maxPage;
+            ViewBag.CurrentPage = page;
             //Should show user list of all products
             // List<Product> prods = ProductDB.GetAllProducts();
             return View(prods);
@@ -75,6 +79,19 @@ namespace JoesECommerce.Controllers
                 ProductDB.Update(p);
                 return RedirectToAction("Index");
             }
+            return View(p);
+        }
+
+
+        public ActionResult Delete(int id)
+        {
+            ProductDB.DeleteProduct(id);
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult Details (int id)
+        {
+            Product p = ProductDB.GetProductById(id);
             return View(p);
         }
 
