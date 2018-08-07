@@ -22,5 +22,8 @@ namespace JoesECommerce.Models
 
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
         public virtual DbSet<Product> Products { get; set; }
+
+        public virtual DbSet<Member> Members { get; set; }
+
     }
 }
