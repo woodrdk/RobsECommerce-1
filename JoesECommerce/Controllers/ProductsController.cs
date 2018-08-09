@@ -14,6 +14,10 @@ namespace JoesECommerce.Controllers
         // use id as page number
         public ActionResult Index(int? id)
         {
+            if (!SessionHelper.IsUserLoggedIn())
+            {
+                return RedirectToAction("Login", "User");
+            }
             //int page = 1;
             //if (id.HasValue)
             //{
@@ -66,14 +70,28 @@ namespace JoesECommerce.Controllers
             return View(product);
         }
 
+
+
+
+        // get
         public ActionResult Edit(int id)
         {
+            if (!SessionHelper.IsAdmin())
+            {
+                return new HttpStatusCodeResult(401);
+            }
             Product prod = ProductDB.GetProductById(id);
             return View(prod);
         }
+
         [HttpPost]
         public ActionResult Edit(Product p)
         {
+            if (!SessionHelper.IsAdmin())
+            {
+                return new HttpStatusCodeResult(401);
+            }
+
             if (ModelState.IsValid)
             {
                 ProductDB.Update(p);
@@ -83,11 +101,18 @@ namespace JoesECommerce.Controllers
         }
 
 
+
+       
         public ActionResult Delete(int id)
         {
             ProductDB.DeleteProduct(id);
             return RedirectToAction("Index");
         }
+       
+
+
+
+
 
         public ActionResult Details (int id)
         {

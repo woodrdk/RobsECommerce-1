@@ -33,6 +33,7 @@ namespace JoesECommerce.Controllers
                 };
 
                 MemberDB.AddNewMember(m);
+                SessionHelper.LogUserIn(m.Username);
                 return RedirectToAction("Index", "Home");
             }
             return View(Reg);
@@ -51,9 +52,7 @@ namespace JoesECommerce.Controllers
                 // query database and check if credentials match
                 if (MemberDB.UserExists(login))
                 {
-                    // Creating a session
-                    Session["Username"] = login.Username;
-                    Session["Role"] = "Customer";
+                    SessionHelper.LogUserIn(login.Username);
                     return RedirectToAction("Index", "Home");
                 }
                 // add custom error we cannot find your credentials
@@ -62,5 +61,11 @@ namespace JoesECommerce.Controllers
             return View(login);
         }
 
+
+        public ActionResult LogOut()
+        {
+            SessionHelper.LogUserOut();
+            return RedirectToAction("Index", "Home");
+        }
     }
 }

@@ -24,14 +24,14 @@
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                     <li>@Html.ActionLink("View Products", "Index", "Products")</li>
-                    @if (Session["Username"] == null)
+                    @if (JoesECommerce.Models.SessionHelper.IsUserLoggedIn())
                     {
-                        <li>@Html.ActionLink("Register", "Register", "User")</li>
-                        <li>@Html.ActionLink("Login", "Login", "User")</li>
+                        <li>@Html.ActionLink("Logout", "Logout", "User")</li>
                     }
                     else
                     {
-                        <li>@Html.ActionLink("Logout", "Logout", "User")</li>
+                        <li>@Html.ActionLink("Register", "Register", "User")</li>
+                        <li>@Html.ActionLink("Login", "Login", "User")</li>
                     }
                 </ul>
             </div>
