@@ -13,20 +13,15 @@ namespace JoesECommerce.Controllers
         // GET: Cart
         public ActionResult Add(int id)
         {
-            // add product to cart
             Product p = ProductDB.GetProductById(id);
-
-            string cartData = JsonConvert.SerializeObject(p);
-            HttpCookie cookie = new HttpCookie("Cart");
-            cookie.Value = cartData;
-            cookie.Expires = DateTime.Now.AddYears(5);
-            Response.Cookies.Add(cookie);
+            // the user is only adding a single product
+            ShoppingCart.AddProduct(p);
             return View(p);
         }
 
          public ActionResult ViewCart()
         {
-            // shor user shopping car contents
+            // show user shopping car contents
             throw new NotImplementedException();
         }
     }

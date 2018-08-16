@@ -21,12 +21,19 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                     <li>@Html.ActionLink("View Products", "Index", "Products")</li>
                     @if (JoesECommerce.Models.SessionHelper.IsUserLoggedIn())
                     {
                         <li>@Html.ActionLink("Logout", "Logout", "User")</li>
+                        <li>
+                            <a class="btn btn-default" href="~/Cart/ViewCart">
+                                <span class="glyphicon glyphicon-shopping-cart">
+                                    <span class="badge">
+                                        @ShoppingCart.GetTotalItems()
+                                    </span>
+                                </span>
+                            </a>
+                        </li>
                     }
                     else
                     {

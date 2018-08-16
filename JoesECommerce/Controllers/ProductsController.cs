@@ -76,10 +76,10 @@ namespace JoesECommerce.Controllers
         // get
         public ActionResult Edit(int id)
         {
-            if (!SessionHelper.IsAdmin())
-            {
-                return new HttpStatusCodeResult(401);
-            }
+            //if (!SessionHelper.IsAdmin())
+            //{
+            //    return new HttpStatusCodeResult(401);
+            //}
             Product prod = ProductDB.GetProductById(id);
             return View(prod);
         }
@@ -87,10 +87,10 @@ namespace JoesECommerce.Controllers
         [HttpPost]
         public ActionResult Edit(Product p)
         {
-            if (!SessionHelper.IsAdmin())
-            {
-                return new HttpStatusCodeResult(401);
-            }
+            //if (!SessionHelper.IsAdmin())
+            //{
+            //    return new HttpStatusCodeResult(401);
+            //}
 
             if (ModelState.IsValid)
             {
@@ -109,10 +109,6 @@ namespace JoesECommerce.Controllers
             return RedirectToAction("Index");
         }
        
-
-
-
-
 
         public ActionResult Details (int id)
         {

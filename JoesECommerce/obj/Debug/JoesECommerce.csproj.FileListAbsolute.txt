@@ -291,3 +291,4 @@ C:\Users\rwood\source\repos\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerc
 C:\Users\rwood\source\repos\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.pdb
 C:\Users\rwood\source\repos\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.Migrations.addmember.resources
 C:\Users\rwood\source\repos\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.Migrations.fixedmmbe.resources
+C:\Users\rwood\source\repos\JoesECommerce-1\JoesECommerce\obj\Debug\JoesECommerce.Migrations.DB.resources

@@ -23,7 +23,9 @@ namespace JoesECommerce.Models
         [Range(0, 100000)] //Inclusive?
         [DataType(DataType.Currency)]
         public double Price { get; set; }
+        public short Quantity { get; set; }
 
         //TODO: Add description
+        public string Description { get; set; }
     }
 }
